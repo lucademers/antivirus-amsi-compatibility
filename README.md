@@ -5,6 +5,7 @@ This repository provides a comprehensive list of antivirus products and their co
 ## Key Features
 
 **Compatibility Information**: This table indicates whether each antivirus product supports AMSI.
+
 **Current as of Last Update**: The information provided is accurate as of the date of the last update. Users are encouraged to verify compatibility with the latest information from antivirus vendors.
 
 ## Antivirus Compatibility Table
