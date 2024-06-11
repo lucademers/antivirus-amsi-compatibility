@@ -1,6 +1,6 @@
 # Antivirus Compatibility with AMSI
 
-This repository provides a comprehensive list of antivirus products and their compatibility with the Antimalware Scan Interface (AMSI). AMSI is a Windows feature that enhances the detection and prevention of malicious scripts and macros by integrating with various antivirus solutions.
+AMSI (Antimalware Scan Interface) is engineered for the detection and prevention of malicious commands or scripts by integrating with various antivirus solutions. It enables real-time inspection of all executed PowerShell, JScript, VBScript, VBA, or .NET commands or scripts. Specifically, AMSI captures each command or script at runtime and submits it to the local antivirus software for thorough inspection, ensuring a comprehensive defense mechanism against script-based threats.
 
 ## Key Features
 
